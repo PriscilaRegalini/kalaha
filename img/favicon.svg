@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#CC33CC;}
+	.st1{display:none;}
+	.st2{display:inline;fill:#FFFFFF;stroke:#CCCCCC;stroke-miterlimit:10;}
+	.st3{display:inline;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st7{display:inline;fill:#FFFFFF;}
+	.st8{display:inline;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st9{display:none;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st10{display:none;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#2E67B1;}
+	.st12{font-family:'AveriaSansLibre-Bold';}
+	.st13{font-size:16.7449px;}
+</style>
+<rect x="-2" y="-2.29" class="st0" width="61" height="54"/>
+<g class="st1">
+	<polygon class="st2" points="27.6,33.17 41.01,19.76 33.34,19.76 33.34,5.4 21.85,5.4 21.85,19.76 14.19,19.76 	"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M40.52,3.07c-0.79-0.07-1.54-0.1-2.23-0.1c-5.58,0-8.26,2.05-11.32,5.16c-3.06-3.11-5.74-5.16-11.32-5.16
+		c-0.7,0-1.44,0.03-2.23,0.1C8.59,3.47,3.01,7.23,2.33,14.44v2.4c0.63,6.9,6.75,15.41,24.64,26.08
+		c17.89-10.68,24.01-19.19,24.64-26.08v-2.4C50.93,7.23,45.35,3.47,40.52,3.07z"/>
+</g>
+<g class="st1">
+	<g class="st3">
+		<g>
+			<path class="st5" d="M27.47,0.75c0,0-9.9,4.17-17.29,3.43v22.76L27.7,41.95l17.52-15.02V4.18C37.83,4.92,27.54,0.78,27.47,0.75z"
+				/>
+		</g>
+	</g>
+</g>
+<g class="st1">
+	<path class="st8" d="M48.03,22.13c-0.17-7.18,0.27-13.31-0.79-15.15c-1.37-2.36-4.87-4.72-9.49-5.3c-3.03-0.38-18.12-0.38-21.16,0
+		c-4.62,0.58-8.12,2.94-9.49,5.3c-1.06,1.83-0.63,7.96-0.79,15.15c0.17,7.18-0.27,13.31,0.79,15.15c1.37,2.36,4.87,4.72,9.49,5.3
+		c3.03,0.38,18.12,0.38,21.16,0c4.62-0.58,8.12-2.94,9.49-5.3C48.31,35.45,47.87,29.32,48.03,22.13z"/>
+</g>
+<path class="st9" d="M50.96,6.78L46,11.49c0,0,0.67,14.28-8.04,21.15S16.72,44.36,3.14,36.61c0,0,8.41,0.28,14.21-4.45
+	c0,0-7.58-0.71-9.35-6.14c0,0,3.38,0.78,3.77-0.49c0,0-8.08-5.32-7.29-8.7c0,0,2.11,0.38,4.63,0.34c0,0-7.16-5.14-3.33-12.24
+	c0,0,6.62,8.4,20.5,9c0,0-0.48-8.91,7.37-11.47c5.43-1.77,9.71,2.77,9.71,2.77l6.26-2.63l-4.11,5.11L50.96,6.78z"/>
+<path class="st10" d="M1.47,6.34v34.94H54V6.34H1.47z M27.56,28.79l7.33-5.28l15.4,16.07H4.81l15.41-16.07L27.56,28.79z
+	 M27.56,26.55L3.11,7.71h49.52L27.56,26.55z M18.06,21.95L2.88,37.79V11.03L18.06,21.95z M52.23,37.79L37.06,21.95l15.18-10.92
+	V37.79z"/>
+<rect y="-0.02" class="st11" width="16" height="16"/>
+<text transform="matrix(1 0 0 1 2.9671 13.8245)" class="st4 st12 st13">K</text>
+</svg>

@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:wght@400;700&family=Averia+Serif+Libre:ital,wght@0,400;0,700;1,300&family=Quicksand:wght@300;400;600&display=swap');
+*{
+font-family: 'Averia', sans-serif;
+font-family: 'Quicksand', sans-serif;
+/* padding: 0;
+margin: 0; */
+box-sizing: border-box;
+}
+h1, h2, h3, a, button{
+    font-family:'Quicksand', sans-serif ;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 30px;
+    color: #2F67B2;
+    font-weight: 600;
+}
+h2{
+    width: 80%;
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 1.2em;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+h4{
+    font-weight: 600;
+    font-size: 1.2em;
+}
+p{
+    font-size: 1em;
+    line-height: 1.3em;
+    color: gray;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black; 
+     }  
+div a img:hover{
+        opacity: 85%;
+        border: black;
+     }
+/* bg */
+.bg-gris{
+    background-color: #eaeff4;
+    width: 100%;
+    }
+.bg-azul{
+    background-color: #0066CC;
+     width: 100%;
+    }
+
+/* textos */
+.text-bold{
+font-family: 'Quicksand', sans-serif;
+font-weight: 600;
+}
+.text-piel{
+color: #FDCC99;
+}
+.text-naranja{
+color: #F79769;
+}
+.text-verdeAgua{
+color: #38BFC3;
+}
+.text-azul{
+color: #2F67B2;
+}
+/* NAV */
+nav{
+    background-color: white;
+}
+nav img{
+    width: 150px;
+}
+.navbar-toggler{
+    border: none !important;
+}
+.navbar-toggler:focus{
+    box-shadow: none !important ;
+}
+.boton-hamburguesa{
+    background-color: white;
+    color: #2F67B2;
+    border: none;
+    margin: 5px; 
+}  
+.boton-hamburguesa:hover{
+    color: black;
+} 
+
+/* HEADER INDEX */
+
+header img{
+    width: 100%;
+   
+}
+header p{
+font-size: 1.8em;
+}
+.principal{
+    padding: 10px;
+}
+
+/* MAIN INDEX */
+main{
+    color: gray;
+ }
+     main .boton{      
+        background-color: #dcebfa;
+        width: 100%;
+        font-weight: 600;
+        color: #0066CC;
+        border: solid 2px #0066CC;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;    
+    }
+    main .boton:hover{
+        background-color: black;
+        color:white;
+        border: solid 2px white;
+        }
+        .boton-carrusel{
+            background-color: #dcebfa;
+            width: 4%;
+            color: #0066CC;
+            border-radius: 5px;
+        }
+
+/* CREAR */
+.h1-bg-crear{
+    background-color: #FDCC99;
+    width: 100%;
+    height:auto;
+    margin: 10px auto;  
+    padding: 30px; 
+    color: white; 
+}
+ #presentacion p{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.flex-crear{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-crear{
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+}
+
+    .contenedor-crear label{
+        font-size: 1.3em;
+        margin-bottom: 10px;
+    }
+
+label, input, select:focus{
+    box-shadow: none !important;
+
+    
+}
+select:focus{
+
+border: #F79769 solid 1px;
+
+}
+select:link{
+    border:#FDCC99 solid 1px;
+ }
+
+/* FOOTER */
+footer{
+    width: 100%;
+    padding-top: 10px; 
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    margin-left: 10px;
+} 
+      footer a{
+         text-decoration: none;
+      }     
+        footer svg{
+          margin: -40px 40px 0px 20px;  
+          width: 30px;
+          fill: #0066CC; 
+        } 
+            footer svg:hover{ 
+            fill: black; 
+          }
+                 
+            footer ul{
+            display: flex;
+              list-style: none; 
+             } 
+                    footer ul li a{
+                        display: flex;
+                        text-decoration: none;
+                        font-size: 1.2rem;
+                        color: #0066CC;
+                        margin: 0px 10px;           
+                    }
+                    footer ul li a:hover{                    
+                        color:black;                     
+                    }
+
+@media (width > 500){
+    .flex-crear{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
